@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/40414f20-528d-401d-b9bb-85781e6bfb38
+
+
+
 # Embedded C++ Closed-Loop Proximity Alarm & Audio Feedback System
 
 A modular, high-performance embedded C++ application that establishes a synchronized hardware feedback loop using an Arduino Uno, an Infrared (IR) obstacle detection module, a piezo buzzer, an acoustic sound sensor, and an indicator LED.
